@@ -1,4 +1,5 @@
+<<<<<<< HEAD
+=======
 # demo_project
-# Modification from branch 1
-# Modification2 from branch 1
 # Modification frm branh 2
+>>>>>>> Modification in branch 2
